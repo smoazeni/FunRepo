@@ -1,0 +1,16 @@
+/* styles.css */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+}
+
+h1 {
+    color: #333;
+}
+
+.button {
+    background-color: #0078d4;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+}
